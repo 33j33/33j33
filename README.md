@@ -14,19 +14,21 @@
 **33j33/33j33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+---
 
 ### I am a Full Stack Developer  <img width="50px" src="./developer.gif">
 - 🔭 I’m currently working at Squareboat Solutions as a Software Engineering Intern.
 - 🌱 I’m currently learning NestJs and TypeScript
 - 👯 I’m looking to collaborate on JS or Python Projects. 
 - 🥅 2021 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
+- 💬 Ask me about anything, I am happy to help :)
 - 🧗 I try to: Go beyond and push the boundaries.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I am always up for a game of chess.
 
-### Languages, Frameworks and Tools: 
+---
 
+### Languages, Frameworks and Tools: 
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -48,8 +50,10 @@
 <!--<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />-->
 <img align="left" alt="flask" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="tailwind" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<br>
-<br>
+<br/>
+<br/>
+
+---
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
