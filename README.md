@@ -14,7 +14,7 @@
 ---
 
 ### I am a Full Stack Developer  <img width="50px" src="./developer.gif">
-- 🌱 I’m currently learning NestJs and TypeScript
+- 🌱 I’m currently deep diving into TypeScript.
 - 👯 I’m looking to collaborate on JS Projects. 
 - 🥅 2023 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :)
