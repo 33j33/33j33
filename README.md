@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I am always up for a game of chess.
 
 ### Projects 
-- **buffered-event-emitter** [[repo]](https://github.com/33j33/buffered-event-emitter) | [[npm]](https://www.npmjs.com/package/buffered-event-emitter) - A tiny (1.7kb, gzip-minified) library to handle events. Buffer and flush events with configurable buffer capacity. Pause, queue and resume events. Log event emission, adding and removing listeners. Works for both node and browser. Has Typescript support. 
+- **buffered-event-emitter** [[repo]](https://github.com/33j33/buffered-event-emitter) | [[npm]](https://www.npmjs.com/package/buffered-event-emitter) - A tiny (1.7kb, gzip-minified) library to handle events. Buffer and flush events with configurable buffer capacity. Pause, queue and resume events. Log event emission, adding and removing listeners. Cache event data. Works for both node and browser. Has Typescript support. 
 - **TinkedInSocial** [[repo]](https://github.com/33j33/TinkedInSocial) - An intra-organisation social networking site inspired from linkedin, where employees across the org and different teams can interact with each other. Uses React, React Router, Redux, SCSS, Ant Design.
 - **Jobsite** [[repo]](https://github.com/33j33/Jobsite) - A website where people can search and apply to jobs. The recruiters can add job listings and view the candidates who applied to their posted jobs. Uses React, CSS, React Router, Node, Express, MongoDB.
 - **Movieboxd** [[repo]](https://github.com/33j33/movieboxd) - Search movies and save them in your 'favorites', 'watched' or 'watchlist'. Synced with local storage. Uses TMDB Api, React. 
