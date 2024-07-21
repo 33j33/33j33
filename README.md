@@ -6,7 +6,6 @@
 ### I am a Full Stack Developer  <img width="50px" src="./developer.gif"> 
 - 🌱 I’m currently deep diving into TypeScript.
 - 👯 I’m looking to collaborate on JS Projects. 
-- 🥅 2023 Goals: Regularly write tech articles. Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :)
 - 🧗 I try to: Go beyond and push the boundaries.
 - ⚡ Fun fact: I am always up for a game of chess.
