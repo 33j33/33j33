@@ -14,7 +14,7 @@
 - **buffered-event-emitter** [[repo]](https://github.com/33j33/buffered-event-emitter) | [[npm]](https://www.npmjs.com/package/buffered-event-emitter) - A tiny (2.4kb, gzip-minified) library to handle events. Buffer and flush events with configurable buffer capacity. Pause, queue and resume events. Log event emission, adding and removing listeners. Cache event data. Works for both node and browser. Has Typescript support. 
 
 ----
-## Not maitained / Not relevant
+## No longer maintained
 
 - **TinkedInSocial** [[repo]](https://github.com/33j33/TinkedInSocial) - An intra-organisation social networking site inspired from linkedin, where employees across the org and different teams can interact with each other. Uses React, React Router, Redux, SCSS, Ant Design.
 - **Jobsite** [[repo]](https://github.com/33j33/Jobsite) - A website where people can search and apply to jobs. The recruiters can add job listings and view the candidates who applied to their posted jobs. Uses React, CSS, React Router, Node, Express, MongoDB.
