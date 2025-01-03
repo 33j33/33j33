@@ -4,7 +4,7 @@
 
 
 ### I am a Full Stack Developer  <img width="50px" src="./developer.gif"> 
-- 🌱 I’m currently deep diving into TypeScript.
+- 🌱 I’m currently deep diving into ROR.
 - 👯 I’m looking to collaborate on JS Projects. 
 - 💬 Ask me about anything, I am happy to help :)
 - 🧗 I try to: Go beyond and push the boundaries.
