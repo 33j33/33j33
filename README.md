@@ -15,7 +15,7 @@
 
 ----
 ## No longer maintained
-- [[10-Layouts-in-10-CSS-Lines]](https://github.com/33j33/10-Layouts-in-10-CSS-Lines) - Minimal Modern CSS layouts in just 10 lines of CSS
+- **10-Layouts-in-10-CSS-Lines** [[repo]](https://github.com/33j33/10-Layouts-in-10-CSS-Lines) - Minimal Modern CSS layouts in just 10 lines of CSS
 - **TinkedInSocial** [[repo]](https://github.com/33j33/TinkedInSocial) - An intra-organisation social networking site inspired from linkedin, where employees across the org and different teams can interact with each other. Uses React, React Router, Redux, SCSS, Ant Design.
 - **Jobsite** [[repo]](https://github.com/33j33/Jobsite) - A website where people can search and apply to jobs. The recruiters can add job listings and view the candidates who applied to their posted jobs. Uses React, CSS, React Router, Node, Express, MongoDB.
 - **Movieboxd** [[repo]](https://github.com/33j33/movieboxd) - Search movies and save them in your 'favorites', 'watched' or 'watchlist'. Synced with local storage. Uses TMDB Api, React. 
