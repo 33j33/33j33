@@ -11,14 +11,5 @@
 - ⚡ Fun fact: I am always up for a game of chess.
 
 ### Projects 
-- **buffered-event-emitter** [[repo]](https://github.com/33j33/buffered-event-emitter) | [[npm]](https://www.npmjs.com/package/buffered-event-emitter) - A tiny (2.4kb, gzip-minified) library to handle events. Buffer and flush events with configurable buffer capacity. Pause, queue and resume events. Log event emission, adding and removing listeners. Cache event data. Works for both node and browser. Has Typescript support. 
-
-#### No longer maintained
-- **10-Layouts-in-10-CSS-Lines** [[repo]](https://github.com/33j33/10-Layouts-in-10-CSS-Lines) - Minimal Modern CSS layouts in just 10 lines of CSS
-- **TinkedInSocial** [[repo]](https://github.com/33j33/TinkedInSocial) - An intra-organisation social networking site inspired from linkedin, where employees across the org and different teams can interact with each other. Uses React, React Router, Redux, SCSS, Ant Design.
-- **Jobsite** [[repo]](https://github.com/33j33/Jobsite) - A website where people can search and apply to jobs. The recruiters can add job listings and view the candidates who applied to their posted jobs. Uses React, CSS, React Router, Node, Express, MongoDB.
-- **Movieboxd** [[repo]](https://github.com/33j33/movieboxd) - Search movies and save them in your 'favorites', 'watched' or 'watchlist'. Synced with local storage. Uses TMDB Api, React. 
-- **Product Inventory Manager** [[repo]](https://github.com/33j33/Product-Inventory-Manager) - A GUI application for desktop to manage product inventory. It can create, read, update, and delete product information to and from the database. It can also export the inventory data to an excel file. Uses Python, Tkinter, ttkthemes, sqlite3, openpyxl.
-- **Discord Bot** [[repo]](https://github.com/33j33/Product-Inventory-Manager) - It provides following information to the user on various commands, Real time weather, AQI of a place, Crypto currency stats, Forex exchange rates, Currency Converter, Details about next SpaceX launch, upcoming ISS passes for a particular location, Random Facts, Memes, Quotes, Shareable Newsletter. Uses python, discord.py
-- **Aww** - [[repo]](https://github.com/33j33/Aww) - Displays a random cat picture and an interesting fact about them. 
----
+- **buffered-event-emitter** [[repo]](https://github.com/33j33/buffered-event-emitter) | [[npm]](https://www.npmjs.com/package/buffered-event-emitter) - A tiny (2.4kb, gzip-minified) library to handle events. Buffer and flush events with configurable buffer capacity. Pause, queue and resume events. Log event emission, adding and removing listeners. Cache event data. Works for both node and browser. Has Typescript support.
+- **Design Patterns Using Typescript** [[repo]](https://github.com/33j33/design-patterns-using-typescript) - explains common design patterns through examples from real world software, coded in Typescript.
